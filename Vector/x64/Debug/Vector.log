@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Programs\Vector\Vector\Vector.h(87): warning C4172: 返回局部变量或临时变量的地址: r
+  Vector.vcxproj -> E:\Programs\Vector\x64\Debug\Vector.exe

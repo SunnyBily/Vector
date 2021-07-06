@@ -1,0 +1,7 @@
+﻿  main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\Programs\Vector\Vector\Vector.h(82): warning C4172: 返回局部变量或临时变量的地址: res
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Vector.vcxproj -> E:\Programs\Vector\x64\Release\Vector.exe
