@@ -79,8 +79,7 @@ public:
 		Vec* v1 = &V1;
 		Vec3* v = static_cast<Vec3*>(v1);
 		
-		Vec3 r;
-		Vec3* res = &r;
+		Vec3* res = new Vec3;
 		res->a = b * v->c - c * v->b;
 		res->b = c * v->a - a * v->c;
 		res->c = a * v->b - b * v->a;
